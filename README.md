@@ -1,2 +1,2 @@
 # InfluenceMaximization
-Detection of cerataim number of people which influence the mob.
+Detection of ceratain number of people or groups which influence the mob.
